@@ -19,5 +19,6 @@ public class Main {
         // Make 2 variables and use them in an if else conditional print from one of the sections
         // Make an if statement using 2 variables and an AND(&&) statement that triggers a print or println statement
         // Make an if statement using 2 variables and an OR(||) statement that triggers a print or println statement
+
     }
 }
