@@ -33,9 +33,7 @@ public class Main {
         if (d>=c || d<e){
             System.out.println("Or statement is True");
         }
-
     }
 
 }
-
 
