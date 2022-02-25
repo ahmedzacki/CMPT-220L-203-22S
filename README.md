@@ -23,7 +23,7 @@ So I made the following procedure:
 
 I recalled all the four functions I created in my dry_inventory function and it is as the following: 
 
-```static void dry_inventory() {
+`````````static void dry_inventory() {
         lemonade_inventory();
         pretzels_inventory();
         total_tips();
@@ -36,9 +36,5 @@ After that I had my main function calling only the dry_inventory() function to g
         dry_inventory();
     }```
 
----
-Inside my functions, as you will see in the code, I have used **arrays to store the date I recived from the customer**. Then I have used **for loop to scan throgh the elements of my array list** and I have performed some basic calculations to generate my target. 
-
-My code might not be the most effective way but my aim was simplicity so that it is easy to read and understandable. Also, you will notice that I haven't used any numbers inside of my functions except the variables I described outside of my main function. Finally, this code can be used in the future and all you have to do is just change the customer data in the array and the fixed variables like the the cash on hand, then everything else will be generated. Also, this is my first time learning java and my way might not be the efficient way but it gets the work done.  
 
 **Link to Markdown Guide:** [https://www.markdownguide.org/](https://www.markdownguide.org/)
