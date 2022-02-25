@@ -23,9 +23,10 @@ So I made the following procedure:
 
 I recalled all the four functions I created in my dry_inventory function and it is as the following: 
 
-`````````static void dry_inventory() {
+```static void dry_inventory() {
         lemonade_inventory();
         pretzels_inventory();
         total_tips();
-        total_cash();
-    }```
+        total_cash();```
+
+asdff
