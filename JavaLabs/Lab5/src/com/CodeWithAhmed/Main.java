@@ -178,3 +178,5 @@ public class Main {
         System.out.println("Tips: " + tips);
     }
 }
+
+//end of program
