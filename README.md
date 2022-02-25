@@ -29,6 +29,7 @@ I recalled all the four functions I created in my dry_inventory function and it 
         total_tips();
         total_cash();```
 
----
 
-sdfdsfds
+### -
+sdfsdfds
+
