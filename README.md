@@ -28,13 +28,4 @@ I recalled all the four functions I created in my dry_inventory function and it 
         pretzels_inventory();
         total_tips();
         total_cash();
-    }``` 		 
-
-After that I had my main function calling only the dry_inventory() function to generate the overal target:
-
-```public static void main(String[] args) {
-        dry_inventory();
     }```
-
-
-**Link to Markdown Guide:** [https://www.markdownguide.org/](https://www.markdownguide.org/)
