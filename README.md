@@ -30,11 +30,8 @@ My code might not be the most effective way but my aim was simplicity so that it
 
 **Here is the link to Markdown Guide:** [https://www.markdownguide.org/](https://www.markdownguide.org/)
 
-Here are also the two major functions of my code: 
+Here is my dry inventory functions of my code: 
 
-```public static void main(String[] args) {
-        dry_inventory();
-    }```
 
     static void dry_inventory() {
         lemonade_inventory();
