@@ -13,7 +13,7 @@ public class Main {
         linkedlistElements.addToEndOfList(7);
         linkedlistElements.addToEndOfList(9);
         linkedlistElements.deleteFromList(3);
-        
+
         linkedlistElements.list();
 
     }

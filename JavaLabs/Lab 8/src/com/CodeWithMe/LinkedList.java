@@ -35,6 +35,7 @@ public class LinkedList {
             currentValue = currentValue.nextNode;
         }
     }
+/// This function prints a list of the elements in the linked list
     public void list(){
         Node currentValue = head;
         while(currentValue.nextNode != null){
