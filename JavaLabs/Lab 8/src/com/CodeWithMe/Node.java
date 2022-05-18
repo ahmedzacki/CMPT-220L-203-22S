@@ -2,7 +2,7 @@ package com.CodeWithMe;
 
 public class Node {
     int value;
-    Node nextNode;
+    Node left;
 
     public Node(int value) {
         this.value=value;

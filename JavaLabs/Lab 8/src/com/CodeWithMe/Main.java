@@ -8,13 +8,16 @@ public class Main {
         LinkedList linkedlistElements = new LinkedList();
 
         linkedlistElements.addToEndOfList(5);
-        linkedlistElements.addToEndOfList(6);
+        linkedlistElements.addToEndOfList(8);
         linkedlistElements.addToEndOfList(3);
-        linkedlistElements.addToEndOfList(7);
+        linkedlistElements.addToEndOfList(2);
         linkedlistElements.addToEndOfList(9);
         linkedlistElements.deleteFromList(3);
 
-        linkedlistElements.list();
+        linkedlistElements.List();
+        linkedlistElements.bubbleSort();
+        linkedlistElements.List();
+
 
     }
 }
